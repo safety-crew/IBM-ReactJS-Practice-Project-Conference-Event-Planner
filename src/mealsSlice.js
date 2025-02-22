@@ -1,6 +1,4 @@
-// mealsSlice.js
 import { createSlice } from "@reduxjs/toolkit";
-
 export const mealsSlice = createSlice({
   name: "meals",
   initialState: [
@@ -15,7 +13,5 @@ export const mealsSlice = createSlice({
     },
   },
 });
-
 export const { toggleMealSelection } = mealsSlice.actions;
-
 export default mealsSlice.reducer;
