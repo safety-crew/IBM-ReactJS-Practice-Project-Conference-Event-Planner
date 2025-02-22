@@ -1,4 +1,4 @@
-# IBM-ReactJS-Practice-Project-Conference-Event-Planner
+# Practice Project: Conference Event Planner
 ### Understand the task
 Alejandre manages a venue for business conferences. Her parent company, "BudgetEase" wants to hire you to develop a website so BudgetEase customers can price their conference events easily.
 
